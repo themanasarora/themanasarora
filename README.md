@@ -30,5 +30,5 @@ I enjoy building data-driven systems and web applications that solve practical p
 ---
 
 ### Contact
-- LinkedIn: your-link-here  
-- Email: your-email-here
+- LinkedIn: https://www.linkedin.com/in/themanasarora  
+- Email: manas80082@gmail.com
