@@ -23,7 +23,7 @@ I enjoy building data-driven systems and web applications that solve practical p
 ---
 
 ### Currently
-- Working on: Predictive Risk Scoring System for Insider Threat Detection  
+- Working on: AI/Deep learning projects
 - Learning: Advanced ML techniques and cloud deployment  
 - Open to: Collaborating on AI, data science, or impactful open-source projects
 
